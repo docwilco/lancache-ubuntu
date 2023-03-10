@@ -2,7 +2,7 @@
 
 This image provides a standard ubuntu docker base image for other docker images to build on top of.
 
-It is currently based on 18.04 LTS (Bionic Beaver)
+It is currently based on 22.04 LTS (Jammy Jellyfish)
 
 ## Extending this image
 

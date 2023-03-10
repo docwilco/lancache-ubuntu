@@ -1,5 +1,5 @@
-FROM ubuntu:bionic
-MAINTAINER LanCache.Net Team <team@lancache.net>
+FROM ubuntu:jammy
+LABEL maintainer="DocWilco <github@drwil.co>"
 ARG DEBIAN_FRONTEND=noninteractive
 RUN \
   apt-get -y update && apt-get -y upgrade && \
